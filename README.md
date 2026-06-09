@@ -16,7 +16,7 @@
 
 ## Sobre o Projeto
 
-O **TerraPath** é um sistema de simulação e gerenciamento das etapas de terraformação de Marte — o processo de transformar o planeta vermelho em um lugar habitável para os seres humanos.
+O **TerraPath** é um sistema de simulação e gerenciamento das etapas de terraformação de Marte, O processo de transformar o planeta vermelho em um lugar habitável para os seres humanos. A documentacão com mais detalhes está disponível em: https://grupomoskitto.github.io/dynamic-programming-gs-2026-1s/index.html
 
 A ideia central é simples: terraformar Marte não é algo que se faz em qualquer ordem. Existe uma sequência lógica de dependências — por exemplo, você não pode introduzir **Fauna** em um planeta sem antes ter **Oxigênio** e uma **Atmosfera** estável. Pular etapas significa desperdiçar recursos ou colocar toda a missão em risco.
 
