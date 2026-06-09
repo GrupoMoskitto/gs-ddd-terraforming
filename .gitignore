@@ -1,0 +1,9 @@
+target/
+out/
+*.class
+
+# Wallet Oracle — NÃO suba no GitHub (contém certificados privados)
+wallet/
+
+# Credenciais — opcional proteger também
+# src/main/resources/db.properties
